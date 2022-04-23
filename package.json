@@ -1,0 +1,23 @@
+{
+  "name": "on16-todasemtech-s5-projeto-1-1",
+  "version": "1.0.0",
+  "description": "**Semana 5 – Resolução de Problemas/Lógica aplicada e JavaScript (sintaxe básica)**",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reprograma/On16-TodasEmTech-S5-Projeto-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reprograma/On16-TodasEmTech-S5-Projeto-1/issues"
+  },
+  "homepage": "https://github.com/reprograma/On16-TodasEmTech-S5-Projeto-1#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
